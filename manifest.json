@@ -82,8 +82,8 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "BFB748EA3E787604C561DEF17E43395A8B585358C7917E7C1100C8517F5F2C91",
-      "size": 878
+      "checksum": "6D1BEAD5352B30C4D0AE9FBB190EB4EED27D8CF1E5E92E61F0EFE53F45EB1990",
+      "size": 891
     },
     "lib.ftd": {
       "name": "lib.ftd",
@@ -102,5 +102,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/fastn-community/blue-purple-mesh-gradient/zip/refs/heads/main",
-  "checksum": "9651903881F2CDBF806C1112DDC1485AED8ABB8F2E954A3C6C4324DA18F81F51"
+  "checksum": "825D296B1C06D4C039635AD87A5C757653C266DDDDBC806E184551772C834FB2"
 }
